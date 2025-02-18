@@ -14,10 +14,12 @@
     ],
     "permissions": [
       "tabs",
+      "activeTab",
       "storage",
       "webRequest",
       "cookies",
-      "scripting"
+      "scripting",
+      "<all_urls>"
     ],
     "host_permissions": [
     "<all_urls>"
