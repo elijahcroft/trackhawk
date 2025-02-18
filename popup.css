@@ -1,8 +1,45 @@
 body{
-    background-color: black;
-    width: 200px;
+    background-color: #121212;
+    width: 250px;
     height: auto;
+    min-height: 100px;
+    color: #fff;
+    border-radius: 20px;
+    padding: 0px 0px 2px 0px;
+    
 }
 h1{
-    color: aquamarine;
+    color: #fff;
+    
+}
+
+.small-line {
+    border: 0;
+    border-top: 1px solid white; /* You can change the color and thickness */
+    width: 100%; /* Adjust width */
+  }
+.container{
+    border-radius: 20px;
+    background-color: #242323;
+    margin: 1px 1px 1px 1px;
+    min-height: 65%;
+    
+    padding: 1px 2px 1px 2px;
+    
+}
+.container h2{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.container li{
+    font-size: medium;
+
+}
+
+.unsafe{
+    margin-left: 5px;
+    
+    color: red;
+    font-size: x-large;
+    font-weight: bolder;
 }
