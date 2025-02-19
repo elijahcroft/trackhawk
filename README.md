@@ -10,6 +10,7 @@ It categorizes websites into three levels:
 <p>
   <span style="font-weight: bold;">SAFE</span>: Minimal or no tracking.
 </p>
+
 **MODERATE**: Some tracking present.
 
 **UNSAFE**: Heavy tracking detected.
