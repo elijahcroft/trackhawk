@@ -1,4 +1,4 @@
-# TrackHawk privacy extension 
+# TrackHawk privacy extension 🦅
 
 ## Overview
 
