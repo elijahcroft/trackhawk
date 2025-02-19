@@ -5,7 +5,8 @@
 The Privacy Tracker Chrome Extension helps users evaluate how much a website tracks their activity. 
 It categorizes websites into three levels:
 
-<span style="color: red;">SAFE</span>: Minimal or no tracking.
+<span style="color: red; font-weight: bold;">SAFE</span>: Minimal or no tracking.
+
 
 **MODERATE**: Some tracking present.
 
