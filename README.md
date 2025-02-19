@@ -10,7 +10,7 @@ Moderate: Some tracking present.
 
 Unsafe: Heavy tracking detected.
 
-Features
+## Features
 
 Analyzes website tracking mechanisms.
 
@@ -20,7 +20,7 @@ Provides insights into tracking methods used by websites.
 
 User-friendly interface for quick assessments.
 
-Installation
+# Installation
 
 Download the extension files.
 
