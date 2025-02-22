@@ -64,3 +64,29 @@ function checkURL(){
     let checkedUrl = curUrl.substring(0, indexColon);
     return checkedUrl;
 }
+
+function calculateSafteyScore(){
+  let score =0 ;
+  let thirdPartyCount = thirdParty.length % 100;
+ 
+
+  score += thirdPartyCount;
+  if (checkURL() == "http" ){
+    score += 100;
+  }else if (checkURL() == "https" ){
+    score += 0;}
+  
+  
+  
+  
+
+  if( score <= 100 ){
+    return "Safe";
+  }else if( score <= 200){
+    return "Moderate";
+  }else if (score <= 300){
+    return "Unsafe";
+  }
+
+
+}
